@@ -1,12 +1,12 @@
 <h1 align="center">Ola, eu sou o Gabriel Luiz</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
-<img align ="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+
 
 - 🌱 I’m currently learning **Python, Machine Learning and Deep Learning**
 
 - ⚡ Fun fact **I like movies and coffee**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
