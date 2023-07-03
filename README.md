@@ -1,6 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
     Ola, eu sou o Gabriel Luiz</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
+<p align="center"><img src="https://www.codewars.com/users/GabrielL915/badges/micro"/> </p>
 <p align="center">
     <img src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" width="300px">
 </p>
