@@ -12,13 +12,12 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: GabrielL915/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true 
-          SECTION_NAME: waka 
+          SHOW_TITLE: "True" 
           BLOCKS: ░▒▓█ 
-          LANG_COUNT: 10 
-          SHOW_TIME: true 
-          SHOW_TOTAL: true 
-          SHOW_MASKED_TIME: false # optional
+          LANG_COUNT: 10
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          
