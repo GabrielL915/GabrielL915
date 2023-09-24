@@ -26,3 +26,6 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
