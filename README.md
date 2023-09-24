@@ -26,15 +26,8 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
+<p align="center">
+   <img src="https://profile-counter.glitch.me/{GabrielL915}/count.svg" alt="Visitor Count">
+</p>
 
-<details>
-    <p align="center">
-        <a href=""> 
-            <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielL915&theme=react&hide_border=true">
-        </a>
-    </p>
-    <p align="center">
-        <img src="https://profile-counter.glitch.me/{GabrielL915}/count.svg" alt="Visitor Count">
-    </p>
-</details>
 
