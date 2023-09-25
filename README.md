@@ -28,13 +28,4 @@
 </p>
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 24 September 2023 - To: 25 September 2023
-
-Total Time: 13 mins
-
-TypeScript   13 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
-```
-
 <!--END_SECTION:waka-->
