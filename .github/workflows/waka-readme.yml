@@ -15,8 +15,11 @@ jobs:
       - uses: GabrielL915/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "True" 
-          LANG_COUNT: 5
-          SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_TITLE: true 
+          SECTION_NAME: waka 
+          BLOCKS: ░▒▓█ 
+          CODE_LANG: rust 
+          LANG_COUNT: 10 # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
           
