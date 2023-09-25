@@ -28,4 +28,11 @@
 </p>
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 18 September 2023 - To: 25 September 2023
+
+TypeScript   13 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
