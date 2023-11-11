@@ -30,9 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 01 November 2023 - To: 08 November 2023
+From: 02 November 2023 - To: 09 November 2023
 
-Other        7 hrs 7 mins    █████████████▓░░░░░░░░░░░   54.93 %
+Other        4 hrs 2 mins    ███████████████▓░░░░░░░░░   63.02 %
 ```
 
 <!--END_SECTION:waka-->
