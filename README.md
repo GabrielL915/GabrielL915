@@ -30,12 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 10 November 2023 - To: 17 November 2023
+From: 11 November 2023 - To: 18 November 2023
 
-TypeScript   22 hrs 8 mins   ███████████████████████░░   92.27 %
-Bash         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+TypeScript   28 hrs 53 mins  ███████████████████████▒░   92.97 %
+Bash         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Other        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
