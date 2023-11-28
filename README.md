@@ -30,15 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 November 2023 - To: 26 November 2023
+From: 20 November 2023 - To: 27 November 2023
 
-TypeScript   4 hrs 49 mins   ████████████████████░░░░░   80.33 %
-JavaScript   40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-TSConfig     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript   6 hrs           █████████████████████░░░░   83.45 %
+JavaScript   41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
+TSConfig     9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
