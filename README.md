@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
 TypeScript   6 hrs           █████████████████████░░░░   83.45 %
 JavaScript   41 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
