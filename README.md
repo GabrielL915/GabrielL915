@@ -30,9 +30,18 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 27 November 2023 - To: 04 December 2023
+From: 29 November 2023 - To: 06 December 2023
 
-No activity tracked
+Go           2 hrs 3 mins    █████████████▓░░░░░░░░░░░   54.75 %
+Markdown     44 mins         █████░░░░░░░░░░░░░░░░░░░░   19.49 %
+Bash         19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+TypeScript   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 %
+Text         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+Docker       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+SQL          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
 ```
 
 <!--END_SECTION:waka-->
