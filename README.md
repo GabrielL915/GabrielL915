@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 December 2023 - To: 10 December 2023
+From: 04 December 2023 - To: 11 December 2023
 
 Go           3 hrs 16 mins   ██████████▒░░░░░░░░░░░░░░   41.80 %
 YAML         54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
