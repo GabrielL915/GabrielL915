@@ -30,16 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 12 December 2023 - To: 19 December 2023
+From: 13 December 2023 - To: 20 December 2023
 
-CSS          13 mins         █████████▒░░░░░░░░░░░░░░░   37.09 %
-JSON         10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.35 %
-TypeScript   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-EBNF         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-HTML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
