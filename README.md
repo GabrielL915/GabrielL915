@@ -30,11 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Python   42 mins         ████████████▒░░░░░░░░░░░░   49.08 %
-JSON     42 mins         ████████████▒░░░░░░░░░░░░   48.88 %
-XML      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+JSON     42 mins         █████████████░░░░░░░░░░░░   51.53 %
+Python   38 mins         ███████████▓░░░░░░░░░░░░░   46.32 %
+XML      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
