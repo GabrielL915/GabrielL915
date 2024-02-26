@@ -30,14 +30,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 17 February 2024 - To: 24 February 2024
+From: 18 February 2024 - To: 25 February 2024
 
-JavaScript        4 hrs 39 mins   ██████████████░░░░░░░░░░░   55.81 %
-JSON              1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   20.44 %
-Python            1 hr 10 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.98 %
-Java Properties   23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-YAML              19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Other             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+JavaScript        5 hrs 31 mins   ██████████████░░░░░░░░░░░   56.46 %
+JSON              1 hr 42 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
+Python            1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+HTML              30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Java Properties   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+YAML              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Other             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
