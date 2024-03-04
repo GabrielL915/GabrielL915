@@ -30,16 +30,16 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 24 February 2024 - To: 02 March 2024
+From: 25 February 2024 - To: 03 March 2024
 
-JavaScript        4 hrs 34 mins   ███████████████▓░░░░░░░░░   62.49 %
-TypeScript        2 hrs 3 mins    ███████░░░░░░░░░░░░░░░░░░   28.11 %
-HTML              30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-YAML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
-CSS               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript        3 hrs 43 mins   ██████████████▒░░░░░░░░░░   56.78 %
+TypeScript        2 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.28 %
+YAML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TSConfig          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
