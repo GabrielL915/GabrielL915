@@ -30,13 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 March 2024 - To: 11 March 2024
+From: 05 March 2024 - To: 12 March 2024
 
-TypeScript   4 hrs 57 mins   ██████████████░░░░░░░░░░░   55.92 %
-JavaScript   2 hrs           █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-Markdown     40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
-YAML         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Other        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+TypeScript   6 hrs 29 mins   ███████████████▒░░░░░░░░░   61.18 %
+JavaScript   2 hrs 12 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
+Markdown     40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Other        23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
 ```
 
 <!--END_SECTION:waka-->
