@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
 Go           5 hrs 44 mins   ██████████████▓░░░░░░░░░░   59.02 %
 JavaScript   1 hr 32 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
