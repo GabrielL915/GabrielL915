@@ -30,13 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Go           3 hrs 26 mins   ████████████████▓░░░░░░░░   66.92 %
-JavaScript   1 hr 25 mins    ███████░░░░░░░░░░░░░░░░░░   27.66 %
-Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JavaScript   1 hr 25 mins    ██████████████░░░░░░░░░░░   55.58 %
+Go           1 hr 8 mins     ███████████░░░░░░░░░░░░░░   44.42 %
 ```
 
 <!--END_SECTION:waka-->
