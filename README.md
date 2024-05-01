@@ -31,11 +31,12 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 22 April 2024 - To: 29 April 2024
+From: 23 April 2024 - To: 30 April 2024
 
-TypeScript   3 mins          █████████████▓░░░░░░░░░░░   54.23 %
-JSON         2 mins          ███████████▒░░░░░░░░░░░░░   45.33 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+TypeScript   3 mins          █████████████▒░░░░░░░░░░░   52.88 %
+JSON         2 mins          ███████████░░░░░░░░░░░░░░   44.19 %
+Java         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
