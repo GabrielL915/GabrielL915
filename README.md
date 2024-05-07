@@ -31,15 +31,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 28 April 2024 - To: 05 May 2024
+From: 29 April 2024 - To: 06 May 2024
 
-Java              7 hrs 14 mins   █████████████████████░░░░   84.56 %
-Markdown          37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-TypeScript        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
-JSON              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-JavaScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Java              7 hrs 58 mins   █████████████████████▒░░░   85.77 %
+Markdown          37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
+TypeScript        21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Java Properties   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JavaScript        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
