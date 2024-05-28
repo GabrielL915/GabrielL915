@@ -1,10 +1,17 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Ola, eu sou o Gabriel Luiz</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
-<p align="center"><img src="https://www.codewars.com/users/GabrielL915/badges/micro"/> </p>
-<!-- <p align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif" width="300px">
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  Oi, eu sou Gabriel Luiz
+</h1>
+
+<p align="center">
+  <img src="https://www.codewars.com/users/GabrielL915/badges/micro"/>
 </p>
- -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-luiz-gomes-4549b4232/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 <div align="center">
     
 | Languages | Frameworks and Others | Database |
@@ -17,16 +24,17 @@
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) | |
 || ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | |
 
-
-
 </div>
 
-<h3 align="left">Social:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/gabriel-luiz-gomes-4549b4232/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-</p>
+
+
+<div align="center">
+    
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielL915&hide_progress=true&hide=javascript,css,scss,html&theme=tokyonight) 
+ 
+</div>
+
+## Stats
 
 <!--START_SECTION:waka-->
 
