@@ -39,10 +39,10 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 23 May 2024 - To: 30 May 2024
+From: 24 May 2024 - To: 31 May 2024
 
-Java              1 hr 31 mins    ███████████████████████▒░   93.01 %
-Java Properties   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+Java              2 hrs 6 mins    ███████████████████████▓░   94.87 %
+Java Properties   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
