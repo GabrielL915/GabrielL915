@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 05 June 2024 - To: 12 June 2024
+From: 06 June 2024 - To: 13 June 2024
 
 Java              6 hrs 46 mins   ████████████████████▒░░░░   81.89 %
 Python            33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
