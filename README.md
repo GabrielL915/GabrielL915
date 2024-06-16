@@ -33,22 +33,3 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielL915&hide_progress=true&hide=javascript,css,scss,html,hack&theme=tokyonight) 
  
 </div>
-
-## Stats
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 08 June 2024 - To: 15 June 2024
-
-Java              4 hrs 12 mins   ██████████████▓░░░░░░░░░░   58.04 %
-Java Properties   1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
-Python            33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-YAML              31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-GitIgnore file    27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-XML               15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-textmate          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-```
-
-<!--END_SECTION:waka-->
