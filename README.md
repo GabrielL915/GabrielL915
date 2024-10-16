@@ -9,6 +9,6 @@
 
 <div align="center">
   
-[Projects](https://gabriell915.github.io/portifolio/) - [Linkedin](https://www.linkedin.com/in/gabriel-luiz-gomes-4549b4232/) - [Blog](https://gabriell915.github.io/portifolio/blog) - [Gists](https://gist.github.com/GabrielL915)
+[Projects](https://gabriell915.github.io/projects/) - [Linkedin](https://www.linkedin.com/in/gabriel-luiz-gomes-4549b4232/) - [Blog](https://gabriell915.github.io/) - [Gists](https://gist.github.com/GabrielL915)
 
 </div>
